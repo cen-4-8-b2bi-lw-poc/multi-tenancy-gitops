@@ -18,6 +18,12 @@ resources:
 #- argocd/operators/ibm-platform-navigator.yaml
 #- argocd/instances/ibm-platform-navigator-instance.yaml
 
+
+# IBM-DB2 
+#- argocd/operators/ibm-db2.yaml
+#- argocd/instances/ibm-db2-instance.yaml
+
+
 ## Cloud Pak for Business Automation
 #- argocd/operators/ibm-cp4a-operator.yaml
 #- argocd/operators/ibm-db2u-operator.yaml
