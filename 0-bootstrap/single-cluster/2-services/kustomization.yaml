@@ -102,7 +102,7 @@ resources:
 #- argocd/instances/ibm-sccm.yaml
 
 # Required for IBM MQ
-#- argocd/instances/ibm-queuemanager-instance.yaml
+- argocd/instances/ibm-queuemanager-instance.yaml
 
 # Sealed Secrets
 - argocd/instances/sealed-secrets.yaml
