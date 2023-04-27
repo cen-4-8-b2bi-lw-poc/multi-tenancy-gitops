@@ -20,7 +20,7 @@ resources:
 
 
 # IBM-DB2 
-- argocd/operators/ibm-db2.yaml
+#- argocd/operators/ibm-db2.yaml
 #- argocd/instances/ibm-db2-instance.yaml
 
 
